@@ -3,10 +3,10 @@
 #fill in your values before running the script!
 
 #Proxy user's credentials
-USER={user}
-PASS={pass}
+lemonproxies={user}
+premiumplan={pass}
 #your IP address for SSH access
-MYIP={myip}
+18.133.230.33={myip}
 #=======/YOUR SETTINGS========#
 
 #Install firewall, squid and htpasswd

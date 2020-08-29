@@ -2,8 +2,8 @@
 #========YOUR SETTINGS========#
 #fill in your values before running the script!
 
-#Proxy user's credentials
-lemonproxies={user}
+#Proxy user's credential
+lemonproxie={user}
 premiumplan={pass}
 #your IP address for SSH access
 18.133.230.33={myip}
